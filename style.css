@@ -1,0 +1,92 @@
+.header{
+  text-align: center;
+}
+.heading{
+  text-shadow: 50px;
+  font-size: 220px;
+  font-style:oblique;
+  color: white;
+  text-shadow: 10px 7px 5px whitesmoke, 10px 7px 4px red;
+}
+.main{
+  font-size: 100px;
+  color:whitesmoke ;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.image{
+  background-image: url('backgroung.jpg');
+}
+.head{
+  font-size: 50px;
+}
+.section1{
+  width: 500px;
+  float: left;
+  background-image: url('bugger.jpg');
+  font-size: 30px;
+  margin: 40px;
+  padding: 10px;
+  color: white;
+}
+.section2{
+  width: 500px;
+  float: left;
+  font-size: 30px;
+  background-image: url('food.jpg');
+  margin: 40px;
+  color: white;
+}
+.section3{
+  width: 500px;
+  float: left;
+  font-size: 30px;
+  background-image: url('shawarma.jpg');
+  margin: 40px;
+  color: white;
+}
+.burger{
+  font-size: 50px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: oblique;
+}
+.pizza{
+  font-size: 50px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: oblique;
+}
+.shawarma{
+  font-size: 50px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: oblique;
+}
+.big{
+  margin: 0;
+  padding: 0;
+}
+#container{
+  width: 960px;
+  margin: 0 auto;
+}
+.paragraph{
+  font-size: 50px;
+}
+.list{
+  font-size: 50px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: red;
+  font-style: italic;
+}
+.have{
+  font-size: 50px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.end{
+  font-size: 60px;
+  color: red;
+}
+.end:hover{
+  color: wheat;
+}
+.back{
+  background-image: url('blback.jpg');
+}
